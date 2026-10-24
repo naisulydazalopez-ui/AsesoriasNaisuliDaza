@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Crecimiento humano con manos y hojas</title>
+  <desc id="desc">Ilustración de una planta formada por hojas con iconos de engranaje, bombilla, corazón y crecimiento, sostenida por dos manos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f1f0eb"/>
+      <stop offset="100%" stop-color="#dfeae6"/>
+    </linearGradient>
+    <linearGradient id="leafGreen" x1="0" x2="1">
+      <stop offset="0%" stop-color="#5f8e65"/>
+      <stop offset="100%" stop-color="#295b54"/>
+    </linearGradient>
+    <linearGradient id="leafBlue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2f7f9c"/>
+      <stop offset="100%" stop-color="#1e4f63"/>
+    </linearGradient>
+    <linearGradient id="leafGold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d8b869"/>
+      <stop offset="100%" stop-color="#d28a39"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <g opacity="0.6">
+    <path d="M0 600 C 220 530, 360 560, 580 620 S 980 700, 1200 630 L1200 800 L0 800 Z" fill="#dfece2"/>
+    <path d="M0 680 C 250 620, 410 680, 620 680 S 1000 630, 1200 704 L1200 800 L0 800 Z" fill="#bed9d6" opacity="0.9"/>
+  </g>
+  <g transform="translate(300 125)">
+    <path d="M0 120 C120 40, 220 40, 300 120 L300 260 C220 340, 120 340, 0 260 Z" fill="#f7f5f0" opacity="0.9"/>
+    <path d="M900 120 C1020 40, 1120 40, 1200 120 L1200 260 C1120 340, 1020 340, 900 260 Z" fill="#f7f5f0" opacity="0.9"/>
+  </g>
+  <g transform="translate(560 190)">
+    <path d="M0 0 C 110 0, 180 90, 150 180 C 110 250, 50 305, 0 340 C -55 300, -98 250, -125 180 C -150 100, -90 0, 0 0 Z" fill="url(#leafGreen)"/>
+    <path d="M0 0 C 140 70, 190 160, 170 260 C 100 300, 10 290, -60 220 C -80 180, -90 100, 0 0 Z" fill="url(#leafGreen)" opacity="0.9"/>
+    <path d="M-26 0 C -150 -40, -210 20, -210 100 C -150 150, -102 128, -70 90 C -50 60, -32 36, -26 0 Z" fill="url(#leafGreen)"/>
+    <path d="M26 0 C 170 -40, 260 10, 250 120 C 170 170, 80 164, 22 104 C 6 84, 12 42, 26 0 Z" fill="url(#leafGold)"/>
+    <path d="M-60 190 C -130 120, -115 40, -30 10 C 20 8, 72 42, 90 104 C 96 150, 58 220, -60 190 Z" fill="url(#leafBlue)"/>
+    <path d="M50 170 C 100 90, 155 70, 210 150 C 205 240, 120 275, 50 170 Z" fill="url(#leafBlue)"/>
+    <path d="M-160 148 C -220 160, -250 210, -232 250 C -184 272, -118 254, -98 210 C -90 190, -118 154, -160 148 Z" fill="url(#leafGreen)" opacity="0.8"/>
+    <path d="M180 150 C 224 155, 248 220, 219 262 C 176 290, 112 270, 104 222 C 98 176, 140 145, 180 150 Z" fill="url(#leafBlue)" opacity="0.9"/>
+    <path d="M0 0 C 68 -50, 95 2, 90 62 C 80 120, 18 150, -36 112 C -68 86, -66 28, 0 0 Z" fill="#f5f2ea" opacity="0.65"/>
+    <g transform="translate(-10 -15)">
+      <circle cx="0" cy="0" r="40" fill="#f0f8f4" opacity="0.35"/>
+      <circle cx="0" cy="0" r="18" fill="#ffffff" opacity="0.75"/>
+      <path d="M0 -14 V14 M-14 0 H14" stroke="#2a5368" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    </g>
+    <g transform="translate(-130 140)">
+      <circle cx="0" cy="0" r="43" fill="#e6f0ed"/>
+      <circle cx="0" cy="0" r="22" fill="#d9b569"/>
+      <path d="M-18 0 L0 24 L18 0" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M0 -12 V12 M-12 0 H12" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(145 108)">
+      <rect x="0" y="0" width="110" height="70" rx="12" fill="#d7c39a"/>
+      <rect x="18" y="12" width="78" height="10" rx="5" fill="#f5f3ee" opacity="0.9"/>
+      <rect x="18" y="30" width="60" height="10" rx="5" fill="#f5f3ee" opacity="0.9"/>
+      <rect x="18" y="48" width="72" height="10" rx="5" fill="#f5f3ee" opacity="0.9"/>
+    </g>
+    <g transform="translate(-262 178)">
+      <path d="M0 0 C 55 -26, 110 18, 98 78 C 82 132, 32 154, -18 126 C -62 94, -60 32, 0 0 Z" fill="#cdd9d5" opacity="0.95"/>
+      <circle cx="35" cy="52" r="22" fill="#f4f5f2"/>
+      <path d="M18 52 L30 64 L52 38" fill="none" stroke="#4c8a7a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(260 175)">
+      <path d="M0 0 C 53 -25, 110 22, 96 86 C 82 140, 32 162, -18 128 C -60 92, -58 34, 0 0 Z" fill="#d6e4e2" opacity="0.9"/>
+      <path d="M18 28 C 38 0, 64 0, 80 28 C 53 44, 38 44, 18 28 Z" fill="#4b7d9d" opacity="0.9"/>
+      <path d="M32 58 L48 82 L64 58" fill="none" stroke="#f9f9f7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(-70 330)">
+      <path d="M0 0 C 30 -50, 70 -54, 100 -13 C 120 18, 114 72, 54 92 C 8 108, -52 88, -62 38 C -72 4, -58 -10, 0 0 Z" fill="#f4faf5" opacity="0.95"/>
+      <path d="M10 8 C 26 0, 34 30, 34 50 C 26 72, 10 74, 1 58 C -8 40, -4 18, 10 8 Z" fill="#d7c39a"/>
+    </g>
+    <g transform="translate(72 328)">
+      <path d="M0 0 C 40 -50, 92 -44, 118 0 C 138 34, 124 90, 64 104 C 7 116, -49 102, -52 46 C -54 18, -32 -4, 0 0 Z" fill="#f4faf5" opacity="0.95"/>
+      <path d="M18 22 C 36 4, 62 10, 70 34 C 78 60, 66 88, 40 92 C 12 92, -6 60, 18 22 Z" fill="#5d8d6c"/>
+    </g>
+  </g>
+</svg>
