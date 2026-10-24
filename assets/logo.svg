@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Naisuli Daza</title>
+  <desc id="desc">Marca abstracta con símbolo de persona, montaña y estrella, en colores azul y dorado.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d7c39a"/>
+      <stop offset="100%" stop-color="#c7a66f"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(8 8)">
+    <path d="M28 190V36h35l72 118V36h35v154h-35L63 73v117H28z" fill="#1f4056"/>
+    <path d="M162 36h42c44 0 73 21 73 62 0 42-31 68-79 68h-36V36zm42 34v60h9c25 0 38-9 38-31 0-20-11-29-32-29h-15z" fill="#1f4056"/>
+    <path d="M60 144C104 92 136 70 182 66" fill="none" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="188" cy="48" r="14" fill="#1f4056"/>
+    <path d="M188 66c-22 0-42 17-48 39l-14 53h122l-14-53c-6-22-26-39-48-39z" fill="#1f4056"/>
+    <path d="M146 95l36 42 18-28 34 51H114l32-65z" fill="#1f4056"/>
+    <path d="M210 0l8 22 22 8-22 8-8 22-8-22-22-8 22-8 8-22z" fill="#d7c39a"/>
+  </g>
+</svg>
